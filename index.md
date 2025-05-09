@@ -9,8 +9,11 @@ Amplify Music does not collect, store, or transmit any personal or sensitive inf
 
 *2. Local File Access*  
 • The app allows you to select audio files using a file chooser. 
+
 • Selected files are copied into a local folder (within the app's own directory) for use in playlists. 
+
 • These files are not uploaded, shared, or sent to any external server or third party. 
+
 
 *3. Internet Usage*  
 Amplify Music does not require or use an internet connection. No data is transmitted over the internet.
@@ -22,6 +25,7 @@ Amplify Music does not use any third-party services that collect data.
 The app only accesses your file system when you use the file chooser to select an audio file. This access is:
 
 • Triggered by user action. 
+
 • Used solely to copy the selected file to the app’s music folder. 
 
 *6. Children’s Privacy*  
