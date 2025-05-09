@@ -4,10 +4,10 @@
 
 Thank you for using Amplify Music. We value your privacy and are committed to protecting your personal information. This Privacy Policy explains how our application handles data.
 
-1. Data Collection
+*1. Data Collection*\n
 Amplify Music does not collect, store, or transmit any personal or sensitive information. All functionality is performed locally on your device.
 
-2. Local File Access
+*2. Local File Access*\n
 • The app allows you to select audio files using a file chooser.
 • Selected files are copied into a local folder (within the app's own directory) for use in playlists.
 • These files are not uploaded, shared, or sent to any external server or third party.
