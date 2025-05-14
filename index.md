@@ -5,7 +5,7 @@
 Thank you for using AmplifyMax Music Player. We value your privacy and are committed to protecting your personal information. This Privacy Policy explains how our application handles data.
 
 *1. Data Collection*  
-Amplify Music does not collect, store, or transmit any personal or sensitive information. All functionality is performed locally on your device.
+AmplifyMax does not collect, store, or transmit any personal or sensitive information. All functionality is performed locally on your device.
 
 *2. Local File Access*  
 • The app allows you to select audio files using a file chooser. 
@@ -16,10 +16,10 @@ Amplify Music does not collect, store, or transmit any personal or sensitive inf
 
 
 *3. Internet Usage*  
-Amplify Music does not require or use an internet connection. No data is transmitted over the internet.
+AmplifyMax does not require or use an internet connection. No data is transmitted over the internet.
 
 *4. Third-Party Services*  
-Amplify Music does not use any third-party services that collect data.
+AmplifyMax does not use any third-party services that collect data.
 
 *5. Permissions*  
 The app only accesses your file system when you use the file chooser to select an audio file. This access is:
@@ -29,7 +29,7 @@ The app only accesses your file system when you use the file chooser to select a
 • Used solely to copy the selected file to the app’s music folder. 
 
 *6. Children’s Privacy*  
-Amplify Music is not directed to children under the age of 13, and we do not knowingly collect any data from children.
+AmplifyMax is not directed to children under the age of 13, and we do not knowingly collect any data from children.
 
 *7. Changes to This Policy*  
 If any changes are made to this policy in the future, they will be reflected here with an updated date. 
