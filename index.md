@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Amplify - Music Player App**
+**AmplifyMax Music Player App**
 
 Thank you for using Amplify Music. We value your privacy and are committed to protecting your personal information. This Privacy Policy explains how our application handles data.
 
